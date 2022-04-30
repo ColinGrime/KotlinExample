@@ -1,0 +1,6 @@
+name: KotlinExample
+main: com.github.colingrime.KotlinExample
+version: ${version}
+
+authors: [Scill]
+api-version: 1.13
